@@ -18,8 +18,8 @@ function draw() {
 }
 
 function Walker (){
-	this.x = 340;
-	this.y = 200;
+	this.x = 600;
+	this.y = 400;
 
 	this.display = function(){
 		stroke(0);
